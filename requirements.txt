@@ -38,7 +38,6 @@ requests
 aiohttp
 aiofiles
 asyncio
-youtube_search
 search_engine_parser
 ffmpeg-python
 ffmpeg
